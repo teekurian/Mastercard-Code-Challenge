@@ -1,0 +1,49 @@
+
+##Info
+wordlength.py      : Class with a method to return the length(variable name-word_size) and longest words(variable name-word_list) in a sentence
+test_wordlength.py : Unit tests to test wordlength.py
+
+##Instructions to Run code:
+1.Save wordlength.py and test_wordlength.py in same folder locally.
+2.To Run unit test
+Option A: Use Pycharm to run test_wordlength.py using Run option.
+Option B: Use console by passing command
+python <full directory location path of test_wordlength.py>
+eg: python D:\teena\pythontest\test_wordlength.py
+
+
+##Expected output from 14 testcase.
+Finished Testcase 1
+..............
+Finished Testcase 10
+Finished Testcase 11
+----------------------------------------------------------------------
+Finished Testcase 12
+Ran 14 tests in 0.001s
+Finished Testcase 13
+
+Finished Testcase 14
+OK
+Finished Testcase 2
+Finished Testcase 3
+Finished Testcase 4
+Finished Testcase 5
+Finished Testcase 6
+Finished Testcase 7
+Finished Testcase 8
+Finished Testcase 9
+
+Process finished with exit code 0
+
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.001s
+
+OK
+
+Process finished with exit code 0
+
+
+
+##Suggestion on how to make the unit test code better
+1.Input data for every testcase can be inserted in a csv and accessed at run time.
